@@ -35,7 +35,7 @@ To conduct the analysis and answer the question I used Unix commands for simple 
 - the Polish dictionary “Wielki Słownik Języka Polskiego” (“The Great Dictionary of Polish Language”, my translation; available online, [link](https://wsjp.pl/))
 - 7 different private WhatsApp conversations exported from the app (I'm not uploading the full chat conversations)
 - the AGH corpus of Polish speech and the paper written at the AGH University of Science and Technology, Kraków, Poland (“AGH corpus of Polish speech”, Piotr Zelasko • Bartosz Ziółko • Tomasz Jadczyk • Dawid Skurzok, published online: 6 May 2015, [link](https://link.springer.com/content/pdf/10.1007/s10579-015-9302-y.pdf))
-- txt file of Polish stopwords from @bieli, [link](https://github.com/bieli/stopwords/blob/master/polish.stopwords.txt)
+- txt file of Polish stopwords from @bieli, thanks! [link](https://github.com/bieli/stopwords/blob/master/polish.stopwords.txt)
 
 ## Project files:
 1. How  many words do I know in Polish **@PDF**: [link](https://github.com/Nwojarnik/how_many_words_I_know_in_Polish_project/blob/main/How%20many%20words%20do%20I%20know%20in%20Polish.pdf)
