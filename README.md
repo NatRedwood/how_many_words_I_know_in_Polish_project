@@ -42,7 +42,6 @@ To conduct the analysis and answer the question I used Unix commands for simple 
 2. How many words I know in polish **JUPYTER, UNIX** commands: [link](https://github.com/Nwojarnik/how_many_words_I_know_in_Polish_project/blob/main/How%20many%20words%20I%20know%20in%20polish%20JUPYTER.ipynb)
 3. Cleaning and processing wiht Python **PY**: [link](https://github.com/Nwojarnik/how_many_words_I_know_in_Polish_project/blob/main/Cleaning%20and%20processing%20with%20Python.py)
 4. Top 1000 words from chats **CSV** (cleaned from polish stopwords and names from the group chat): [link](https://github.com/Nwojarnik/how_many_words_I_know_in_Polish_project/blob/main/top_1000_clean_wh_names.csv)
-5. 
 
 
 ## Project plots and graphs
