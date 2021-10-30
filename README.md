@@ -1,5 +1,5 @@
 # How many words do I know in Polish?
-# The analysis of the WhatsApp chats in Polish
+# The analysis of WhatsApp chats in Polish
 
 This project is a part of the NLP class.
 
